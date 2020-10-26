@@ -1,7 +1,6 @@
 ## TableView into CollectionView
 
-![version app ](https://github.com/viktorHbenitez/TableView-CollectionView/blob/main/sketch/TableViewIntoCollectionView.png)
-
+![version app ](https://github.com/viktorHbenitez/TableView-CollectionView/blob/master/sketch/TableViewIntoCollectionView.png)  
 
 ```swift
 // Create CollectionView
