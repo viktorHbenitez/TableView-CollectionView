@@ -66,7 +66,7 @@ extension MainCollectionView: UICollectionViewDelegate,
   }
   
   func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-    return CGSize(width: collectionView.frame.width, height: 100)
+    return CGSize(width: collectionView.frame.width - 20, height: 100)
   }
 
 }
